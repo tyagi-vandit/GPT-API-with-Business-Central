@@ -7,6 +7,7 @@ Create Account or login to your account and then go to your setting, you will fi
 
 
 The src Folder contains the AL code for Integration of ChatGPT/OpenAI API in the Business Central. Using which you can ask questions in the Business central itself.
+Configure the AL environment in your VS code, Remove the HelloWorld.al file and paste this Src folder there.
 
 The Code contains 1 table, 2 pages and 1 codeunit file.
 
